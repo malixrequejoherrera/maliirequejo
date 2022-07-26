@@ -1,0 +1,98 @@
+.cabecera1 {
+    width: 60%;
+    float: left;
+    color: rgb(87, 5, 5);
+    font-size: 150%;
+    font-family: Tahoma;
+    font-weight: bold;
+
+}
+
+.cabecera2 {
+    width: 25%;
+    float:left;
+    color:rgb(190, 15, 108);
+    font-size: 30px;
+    text-align: center;
+    font-family: Tahoma;
+    font-weight: bold;
+
+} 
+.cabecera1 {
+    width: 60%;
+    float: left;
+    color: rgb(87, 5, 5);
+    font-size: 150%;
+    font-family: Tahoma;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+    background-color: rgb(115, 227, 241);
+    font-size: 24px;
+}
+nav {
+    clear:both;
+}
+nav  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #58f6f6;
+  }
+
+nav  li {
+    float: left;
+  }
+  
+nav li a {
+    font-family: Arial;
+    display: block;
+    color: rgb(75, 21, 156);
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+    
+nav  li a:hover {
+    background-color: rgb(217, 120, 230);
+  }
+section {
+    line-height: 150%;
+}
+
+.seccion1{
+    width: 25%;
+    float: left;
+    
+}
+
+.seccion2{
+    width: 25%;
+    float: left;
+    
+}
+.seccion3{
+    width: 25%;
+    float: left;
+}
+.seccion4{
+    width: 20%;
+    float: left;
+}
+.pagina1{ 
+     width: 50%;
+     float: left;
+     text-align: center;
+     background-color: rgb(139, 146, 238);
+
+}
+.pagina2{
+    width: 50;
+    float: left;
+    text-align: center;
+    background-color: rgb(138, 99, 230);
+}
